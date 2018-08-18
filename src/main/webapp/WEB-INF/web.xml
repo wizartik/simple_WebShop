@@ -1,0 +1,47 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+  <display-name>Archetype Created Web Application</display-name>
+  
+  <servlet>
+    <servlet-name>registerController</servlet-name>
+    <servlet-class>controller.userControllers.RegisterController</servlet-class>
+  </servlet>
+
+  <servlet>
+    <servlet-name>loginCotroller</servlet-name>
+    <servlet-class>controller.userControllers.LoginController</servlet-class>
+  </servlet>
+
+  <servlet>
+    <servlet-name>productsServlet</servlet-name>
+    <servlet-class>controller.productControllers.ProductsController</servlet-class>
+  </servlet>
+
+  <servlet>
+    <servlet-name>singleProductController</servlet-name>
+    <servlet-class>controller.productControllers.SingleProductController</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+    <servlet-name>registerController</servlet-name>
+    <url-pattern>/register</url-pattern>
+  </servlet-mapping>
+
+  <servlet-mapping>
+    <servlet-name>loginCotroller</servlet-name>
+    <url-pattern>/login</url-pattern>
+  </servlet-mapping>
+
+  <servlet-mapping>
+    <servlet-name>productsServlet</servlet-name>
+    <url-pattern>/products</url-pattern>
+  </servlet-mapping>
+
+  <servlet-mapping>
+    <servlet-name>singleProductController</servlet-name>
+    <url-pattern>/single</url-pattern>
+  </servlet-mapping>
+</web-app>

@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<dao.util.Config>
+    <database>mysql</database>
+    <host>localhost/mywebshop</host>
+    <user>root</user>
+    <password></password>
+</dao.util.Config>
