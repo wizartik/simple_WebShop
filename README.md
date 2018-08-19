@@ -1,7 +1,7 @@
 # simple_WebShop
 servlet API + mySQL
 <p>
-main page
+<h2>main page<h2/>
 
 ![alt text](https://github.com/wizartik/simple_WebShop/blob/master/1.jpg "shop")
 
@@ -11,16 +11,16 @@ main page
 ![alt text](https://github.com/wizartik/simple_WebShop/blob/master/2.png "shop")
 
 <p>
-products
+<h2>products<h2/>
   
 ![alt text](https://github.com/wizartik/simple_WebShop/blob/master/3.png "shop")
 
 <p>
-cart
+<h2>cart<h2/>
   
 ![alt text](https://github.com/wizartik/simple_WebShop/blob/master/5.png "shop")
 
 <p>
-sign up form
+<h2>sign up form<h2/>
   
 ![alt text](https://github.com/wizartik/simple_WebShop/blob/master/7.png "shop")
