@@ -1,5 +1,5 @@
 # simple_WebShop
-servlet API + mySQL
+servlet API + JDBC
 <p>
 <h2>main page<h2/>
 
